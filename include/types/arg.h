@@ -76,6 +76,7 @@ enum {
 	ARGC_RDR,      /* redirect */
 	ARGC_CAP,      /* capture rule */
 	ARGC_SRV,      /* server line */
+	ARGC_HON,      /* hash-on rule */
 };
 
 /* flags used when compiling and executing regex */
